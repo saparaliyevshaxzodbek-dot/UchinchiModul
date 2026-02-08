@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "3_3_dars": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

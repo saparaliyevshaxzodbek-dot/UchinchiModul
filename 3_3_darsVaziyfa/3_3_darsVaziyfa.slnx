@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="3_3_dars/3_3_dars.csproj" />
+    <Project Path="src/CRUD.Api/CRUD.Api.csproj" />
+  </Folder>
+</Solution>
